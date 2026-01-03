@@ -26,11 +26,6 @@ I'm a Computer Applications student who enjoys building things with code and lea
 
 ---
 
-## 📊 GitHub Stats
-![Giri's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
----
-
 ## 🤝 Connect with Me
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Email: yourmail@example.com
+- LinkedIn: https://www.linkedin.com/in/giri-g-a80884308/
+- Email: yadavgiri406@gmail.com
