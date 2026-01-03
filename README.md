@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Giri 👋
 
-<!--
-**1amgiri/1amgiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Applications student who enjoys building things with code and learning how systems actually work behind the scenes.
 
-Here are some ideas to get you started:
+- 🎓 BCA Student
+- ☕ Java & Backend focused
+- 🧠 Practicing DSA & problem solving
+- 🌱 Currently learning Spring Boot & Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Java, Python, JavaScript
+- **Web:** HTML, CSS, React (basic)
+- **Backend:** Java, Spring Boot (learning)
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
+- **Databases:** MySQL (basic)
+
+---
+
+## 📌 Current Focus
+- Strengthening Java fundamentals
+- Solving LeetCode problems consistently
+- Building small but real-world projects
+- Understanding backend development deeply
+
+---
+
+## 📊 GitHub Stats
+![Giri's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+---
+
+## 🤝 Connect with Me
+- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- Email: yourmail@example.com
