@@ -5,8 +5,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Learner;Open+Source+Enthusiast;Building+Free+Degree+Library" />
 
-### 🎓 Final Year BCA Student | ☕ Java | 🚀 Backend | 💻 Open Source
-
 </div>
 
 ---
@@ -29,16 +27,6 @@
 <img src="https://skillicons.dev/icons?i=java,spring,python,php,js,html,css,react,mysql,firebase,git,github,vscode,idea,linux"/>
 
 </p>
-
----
-
-# 📌 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 📚 Free Degree Library | Free Study Materials |
-| 📄 BuildMyResume | Resume Builder |
-| 🌐 Cirravo Solutions | Software & Student Solutions |
 
 ---
 
@@ -91,18 +79,5 @@
 </a>
 
 </p>
-
----
-
-# 💡 Current Focus
-
-```text
-✔ Master Java
-✔ Learn Spring Boot
-✔ Improve DSA
-✔ Build Production Projects
-✔ Contribute to Open Source
-✔ Land a Software Engineer Role
-```
 
 
