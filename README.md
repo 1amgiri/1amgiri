@@ -9,12 +9,6 @@
 
 ---
 
-# 🚀 About Me
-
-I engineer robust backend services and real-world web applications with a deep focus on the **Java** and **Spring Boot** ecosystem. By bridging rigorous algorithmic problem-solving with architectural best practices, I focus on designing performant REST APIs, optimizing data structures, and building scalable, production-grade software systems from the ground up.
-
----
-
 # 🛠 Tech Stack
 
 <p align="center">
