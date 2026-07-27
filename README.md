@@ -67,4 +67,20 @@
 
 </p>
 
+<p align="center">
+
+<a href="https://www.hackerrank.com/profile/yadavgirish406">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/yadavgirish406">
+<img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=HackerRank&logoColor=00EA64"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/yadavgirpdh4?tab=activity">
+<img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
+</a>
+
+</p>
+
 
