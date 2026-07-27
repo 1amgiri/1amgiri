@@ -71,7 +71,7 @@
 
 <p align="center">
 
-<a href="https://www.hackerrank.com/profile/yadavgirish406">
+<a href="https://leetcode.com/u/yadavgirish406/">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116"/>
 </a>
 
